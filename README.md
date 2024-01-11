@@ -38,6 +38,7 @@ Here's an at-a-glance list of technologies I work with:
 Currently I hold
 - CompTIA Security+
 - Microsoft Technology Associate (MTA)
+
 and my current certificate roadmap is
 - Red Hat RHCSA
 - Cisco CCNA
