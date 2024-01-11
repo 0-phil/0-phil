@@ -48,5 +48,5 @@ and my current certificate roadmap is
 
 Feel free to reach out if you'd like to collaborate or have any questions:
 
-- 📧 **Email:** [phillip.morrical@example.com](mailto:phillip.morrical@example.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/phillipmorrical](https://www.linkedin.com/in/phillipmorrical)
+- 📧 **Email:** [phillip@morrical.dev](mailto:phillip@morrical.dev)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/0x-phil-m/](https://www.linkedin.com/in/0x-phil-m/)
